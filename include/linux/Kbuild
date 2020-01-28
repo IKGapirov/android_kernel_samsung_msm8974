@@ -5,6 +5,7 @@ header-y += dvb/
 header-y += hdlc/
 header-y += hsi/
 header-y += isdn/
+header-y += memfd.h
 header-y += mmc/
 header-y += nfsd/
 header-y += raid/
